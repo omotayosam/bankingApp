@@ -9,7 +9,7 @@ const HomeScreen = () => {
       style={[SafeView.AndroidSafeArea, { backgroundColor: "#19173D" }]}
     >
       <View>
-        <Text>Welcome</Text>
+        <Text>Welcome to bank</Text>
       </View>
     </SafeAreaView>
   );

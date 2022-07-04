@@ -8,7 +8,6 @@ import WalletScreen from "../screens/WalletScreen";
 import InsightScreen from "../screens/InsightScreen";
 import AccountScreen from "../screens/AccountScreen";
 import { useIsFocused } from "@react-navigation/native";
-import tw from "twrnc";
 
 const Tab = createBottomTabNavigator();
 
